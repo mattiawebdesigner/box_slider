@@ -1,0 +1,22 @@
+body {
+  margin: 5px;
+}
+#slidesContainer {
+    height: 115px;
+    width:330px;
+    overflow:hidden;
+}
+#slideInner {
+    width: 990px;
+}
+.slide {
+    float: left;
+    width: 330px;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background: #33cccc;
+  margin: 5px;
+  float:left;
+}
